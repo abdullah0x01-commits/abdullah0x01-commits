@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- ROCKSTAR HEADER - NAME -->
+<!-- NAME HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=MUHAMMAD%20ABDULLAH%20ASGHAR&fontSize=50&fontColor=FFD700&animation=fadeIn" width="100%"/>
 
-<!-- TYPING SVG - Rockstar Style -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Shade&weight=900&size=26&pause=1500&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=ROBOTICS+ENGINEER;C%2B%2B+DEVELOPER;INTELLIGENT+SYSTEMS;BUILDING+THE+FUTURE)](https://git.io/typing-svg)
+<!-- TYPING SVG - GTA 3 Bevan Font -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bevan&weight=400&size=34&pause=1500&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=130&lines=ROBOTICS+ENGINEER;C%2B%2B+DEVELOPER;INTELLIGENT+SYSTEMS;BUILDING+THE+FUTURE)](https://git.io/typing-svg)
 
 </div>
 
