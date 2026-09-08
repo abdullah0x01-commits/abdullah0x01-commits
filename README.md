@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- ROCKSTAR HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=MUHAMMAD%20ABDULLAH%20ASGHAR&fontSize=45&fontColor=FFD700&animation=fadeIn&fontAlignY=40&desc=ROBOTICS%20%26%20INTELLIGENT%20SYSTEMS&descSize=16&descColor=FFFFFF&descAlignY=60&theme=dark" width="100%"/>
+<!-- ROCKSTAR HEADER - NAME -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=MUHAMMAD%20ABDULLAH%20ASGHAR&fontSize=50&fontColor=FFD700&animation=fadeIn" width="100%"/>
 
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=900&size=30&pause=1500&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=ROBOTICS+ENGINEER;C%2B%2B+DEVELOPER;INTELLIGENT+SYSTEMS;BUILDING+THE+FUTURE)](https://git.io/typing-svg)
+<!-- TYPING SVG - Rockstar Style -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Shade&weight=900&size=26&pause=1500&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=ROBOTICS+ENGINEER;C%2B%2B+DEVELOPER;INTELLIGENT+SYSTEMS;BUILDING+THE+FUTURE)](https://git.io/typing-svg)
 
 </div>
 
